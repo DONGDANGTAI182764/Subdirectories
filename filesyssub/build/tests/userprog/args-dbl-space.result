@@ -1,0 +1,7 @@
+FAIL
+Kernel panic in run: PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65
+Translation of call stack:
+In kernel.o:
+0xc0029a66: ustar_parse_header (...ild/../../lib/ustar.c:207)
+0x706f5f65: (unknown)

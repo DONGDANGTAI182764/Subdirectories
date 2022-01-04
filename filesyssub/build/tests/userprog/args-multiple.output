@@ -1,0 +1,276 @@
+Copying tests/userprog/args-multiple to scratch partition...
+qemu-system-x86_64 -device isa-debug-exit -hda /tmp/ZU_QV3BwVP.dsk -m 4 -net none -nographic -monitor null
+PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading..........Simulation terminated due to kernel panic.

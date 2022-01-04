@@ -1,0 +1,259 @@
+Copying tests/userprog/args-single to scratch partition...
+qemu-system-x86_64 -device isa-debug-exit -hda /tmp/BJi_0a4oq2.dsk -m 4 -net none -nographic -monitor null
+PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65PiLo hda1
+Loading............
+Kernel command line: -q -f extract run 'args-single onearg'
+Kernel PANIC at ../../threads/init.c:264 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc0029a66 0x706f5f65Simulation terminated due to kernel panic.
